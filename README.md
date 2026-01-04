@@ -109,8 +109,15 @@ I'm a **QA Engineering Leader** with **18+ years** of experience transforming qu
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitrathi85&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ankitrathi85)
+
+![GitHub followers](https://img.shields.io/github/followers/ankitrathi85?style=for-the-badge&logo=github&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/ankitrathi85?style=for-the-badge&logo=github&label=Stars)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ankitrathi85&show_icons=true&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ankitrathi85&show_icons=true&theme=default&hide_border=true" />
+  <img alt="Ankit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ankitrathi85&show_icons=true&theme=tokyonight&hide_border=true" />
+</picture>
 
 </div>
 
@@ -120,8 +127,15 @@ I'm a **QA Engineering Leader** with **18+ years** of experience transforming qu
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ankitrathi85&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/ankitrathi85/portfolio)
-[![Automation Practice Website](https://github-readme-stats.vercel.app/api/pin/?username=ankitrathi85&repo=automation-practice-website&theme=tokyonight&hide_border=true)](https://github.com/ankitrathi85/automation-practice-website)
+<a href="https://ankitrathi85.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🎨_Portfolio-Visit_Website-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://ankitrathi85.github.io/Test-Resources-Github/index.html">
+  <img src="https://img.shields.io/badge/📚_Test_Resources-Visit_Website-4CAF50?style=for-the-badge&logoColor=white" alt="Test Resources"/>
+</a>
+<a href="https://ankitrathi85.github.io/automation-practice-website/index.html">
+  <img src="https://img.shields.io/badge/🤖_Automation_Practice-Visit_Website-2196F3?style=for-the-badge&logoColor=white" alt="Automation Practice Website"/>
+</a>
 
 </div>
 
