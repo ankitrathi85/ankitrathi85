@@ -110,7 +110,7 @@ I'm a **QA Engineering Leader** with **18+ years** of experience transforming qu
 
 <div align="center">
   
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitrathi85&show_icons=true&theme=tokyonight&hide_border=true)
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitrathi85&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ankitrathi85)
 
 </div>
 
@@ -121,7 +121,7 @@ I'm a **QA Engineering Leader** with **18+ years** of experience transforming qu
 <div align="center">
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ankitrathi85&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/ankitrathi85/portfolio)
-[![Test Resources](https://github-readme-stats.vercel.app/api/pin/?username=ankitrathi85&repo=weatherShopper&theme=tokyonight&hide_border=true)](https://github.com/ankitrathi85/weatherShopper)
+[![Automation Practice Website](https://github-readme-stats.vercel.app/api/pin/?username=ankitrathi85&repo=automation-practice-website&theme=tokyonight&hide_border=true)](https://github.com/ankitrathi85/automation-practice-website)
 
 </div>
 
